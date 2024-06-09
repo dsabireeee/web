@@ -1,0 +1,20 @@
+/* Example CSS to set the button and paragraph colors */
+
+.body {
+  background-color: white; /* Sets the background color of the page to white */
+}
+
+.center {
+  text-align: center;
+}
+
+.btn {
+  background-color: blue; /* This sets the button background color to blue */
+  color: white; /* This sets the text color to white */
+  font-size: 24px; /* Makes the button text larger */
+  padding: 15px 30px; /* Adds padding to make the button larger */
+}
+
+#pp {
+  color: black; /* This sets the paragraph text color to red */
+}
